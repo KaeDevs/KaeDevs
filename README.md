@@ -2,14 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaedevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaedevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=ecf05e476quzp4ktzjbml3e0tl2rvgeodmv1bcmblmnu7sgx&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -17,37 +14,40 @@
 I'm a passionate **Flutter developer**, **backend enthusiast**, and **tech entrepreneur in the making**. I love building real-time applications, automating workflows, and exploring new technologies to solve problems efficiently.
 
 ## 🔥 What I Do
-- 💻 **Flutter & Mobile Development** – Building scalable and interactive mobile apps.
-- 🌐 **Backend Development** – Working with Node.js, Express, MongoDB, and Firebase.
-- ⚡ **Real-time Systems** – Integrating WebSockets, Kafka, and Firebase for real-time updates.
-- 🧠 **Machine Learning & NLP** – Exploring ways to use AI for data-driven applications.
+- 💻 **Flutter & Mobile Development** – Building scalable and interactive mobile apps..
 - 📊 **Entrepreneurship & Automation** – Automating workflows and creating digital products.
+- ⚡ **Real-time Systems** – Integrating WebSockets, Kafka, and Firebase for real-time updates.
 
-## 📌 Current Focus
-🔹 Developing a **real-time disaster data aggregation platform**.<br>
-🔹 Building a **Telegram bot for automated tournament management**.<br>
-🔹 Creating **digital art automation for Etsy**.<br>
-🔹 Learning about **investments & business strategies**.
+
+
 
 ## 🛠 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="30" alt="ChatGPT logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="Kotlin logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
 </div>
 
-## 📈 GitHub Stats
-![Kavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaedevs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaedevs&layout=compact&theme=radical)
 
+## 📈 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaeDevs&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaeDevs&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/KaeDevs/github-readme-stats)
 ###
 
 <div align="left">
@@ -60,14 +60,4 @@ I'm a passionate **Flutter developer**, **backend enthusiast**, and **tech entre
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-## 📚 Additional Resources
-- [Learn Flutter](https://flutter.dev/docs)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [MongoDB Guide](https://www.mongodb.com/docs/)
-- [Firebase Docs](https://firebase.google.com/docs)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
-🚀 **On a journey to build something amazing!**
 

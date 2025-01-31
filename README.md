@@ -6,7 +6,7 @@
 
 
 
-## 🚀 About Me <img align="right" height="200" src="https://media.giphy.com/media/zLXBAnyOqmTHa/giphy.gif?cid=790b761136oua0720grkl0267a0y9r1gq8u6kwb7khe1o7i5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+## 🚀 About Me <img align="right" height="150" src="https://media.giphy.com/media/zLXBAnyOqmTHa/giphy.gif?cid=790b761136oua0720grkl0267a0y9r1gq8u6kwb7khe1o7i5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
 

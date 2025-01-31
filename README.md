@@ -4,13 +4,14 @@
 
 
 
-###
 
-<img align="right" height="200" src="https://media.giphy.com/media/zLXBAnyOqmTHa/giphy.gif?cid=790b761136oua0720grkl0267a0y9r1gq8u6kwb7khe1o7i5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
+## 🚀 About Me <img align="right" height="200" src="https://media.giphy.com/media/zLXBAnyOqmTHa/giphy.gif?cid=790b761136oua0720grkl0267a0y9r1gq8u6kwb7khe1o7i5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-## 🚀 About Me
+
+
+
+
 I'm a passionate **Flutter developer**, **backend enthusiast**, and **tech entrepreneur in the making**. I love building real-time applications, automating workflows, and exploring new technologies to solve problems efficiently.
 
 ## 🔥 What I Do

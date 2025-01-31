@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif?cid=ecf05e476quzp4ktzjbml3e0tl2rvgeodmv1bcmblmnu7sgx&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media.giphy.com/media/zLXBAnyOqmTHa/giphy.gif?cid=790b761136oua0720grkl0267a0y9r1gq8u6kwb7khe1o7i5&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -45,16 +45,14 @@ I'm a passionate **Flutter developer**, **backend enthusiast**, and **tech entre
 
 
 ## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaeDevs&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/KaeDevs/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaeDevs&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaeDevs&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/KaeDevs/github-readme-stats)
+
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="[linkedin logo](https://www.linkedin.com/in/kavin-m--/)"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mailto:mkavin2005@gmail.com"  />
-</div>
+
 
 ###
 
